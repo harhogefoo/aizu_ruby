@@ -1,3 +1,4 @@
+# Structured Program Ⅱ - Matrix Multiplication
 n, m, l = gets.split.map(&:to_i)
 n_x_m = Array.new
 m_x_l = Array.new
